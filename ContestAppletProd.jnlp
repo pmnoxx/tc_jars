@@ -3,9 +3,9 @@
    <information>
       <title>Competition Arena</title>
       <vendor>TopCoder, Inc.</vendor>
-      <homepage href="http://www.topcoder.com"/>
+      <homepage href="http://www.github.com"/>
       <description>TopCoder Contest Arena</description>
-      <icon href="http://www.topcoder.com/images/favicon_new.gif"/>
+      <icon href="http://www.github.com/images/favicon_new.gif"/>
    </information>
    <security>
       <all-permissions/>
