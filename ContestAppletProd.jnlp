@@ -5,7 +5,7 @@
       <vendor>TopCoder, Inc.</vendor>
       <homepage href="http://www.github.com"/>
       <description>TopCoder Contest Arena</description>
-      <icon href="http://www.github.com/images/favicon_new.gif"/>
+      <icon href="https://github.com/pmnoxx/tc_jars/raw/mater/favicon_new.gif"/>
    </information>
    <security>
       <all-permissions/>
