@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="file:///Users/piotr/tc/tc_jars" href="ContestAppletProd.jnlp">
+<jnlp spec="1.0+" codebase="https://github.com/pmnoxx/tc_jars/raw/master" href="ContestAppletProd.jnlp">
    <information>
       <title>Competition Arena</title>
       <vendor>TopCoder, Inc.</vendor>
@@ -12,18 +12,18 @@
    </security>
    <resources>
       <j2se version="1.6+" max-heap-size="128m"/>
-      <jar href="/Users/piotr/tc/tc_jars/arena-client-7.1.3.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/basic_type_serialization-1.0.1.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/client-socket-1.1.1.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/concurrent-1.0.2.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/encoder-1.0.0.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/logging-1.1.0.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/arena-shared-7.5.6.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/client-common-1.2.0.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/compeng-common-1.2.4.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/custom-serialization-1.1.1.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/http-tunnel-client-1.1.0.jar" />
-      <jar href="/Users/piotr/tc/tc_jars/log4j-1.2.17.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/arena-client-7.1.3.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/basic_type_serialization-1.0.1.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/client-socket-1.1.1.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/concurrent-1.0.2.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/encoder-1.0.0.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/logging-1.1.0.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/arena-shared-7.5.6.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/client-common-1.2.0.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/compeng-common-1.2.4.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/custom-serialization-1.1.1.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/http-tunnel-client-1.1.0.jar" />
+      <jar href="https://github.com/pmnoxx/tc_jars/raw/master/log4j-1.2.17.jar" />
    </resources>
 
 
